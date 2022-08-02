@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Prev
+  - Next
+  - line
+  - Product
+  - Counter
+  - barcodeLine
+  - UITimer
+  - Text Score
+  - Score Slider
+  - ScoreBoard
+  - PauseMenu
+  - Block
+  - Computer
+  - Correct
+  - frog
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Block
+  - Water
+  - UI
+  - GameObjects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 517981867
+    locked: 0
+  - name: Costumer
+    uniqueID: 3708059955
+    locked: 0
+  - name: Conveyour
+    uniqueID: 1399961943
+    locked: 0
+  - name: Counter
+    uniqueID: 3076180893
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
